@@ -1,4 +1,3 @@
-from buttons import button
 from tkinter import *
 root = Tk()
 
