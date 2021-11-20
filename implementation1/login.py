@@ -25,6 +25,8 @@ submit.grid(row=2,column=1)
 
 root.mainloop()
 
+
+
 # Entry usage and methods that might help 
 # e = Entry(root, width=75,borderwidth=5, show="*", cursor="dot", justify=CENTER)
 # width = int 
